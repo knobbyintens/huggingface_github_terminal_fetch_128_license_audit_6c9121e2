@@ -8,10 +8,10 @@
       "asset_type": "model",
       "used_for": "Semantic search embedding backbone",
       "owning_team": "Search Relevance",
-      "license": "",
-      "compliance_status": "pending",
-      "reviewed_on": "",
-      "review_notes": ""
+      "license": "apache-2.0",
+      "compliance_status": "approved",
+      "reviewed_on": "2026-11-11",
+      "review_notes": "Permissive license; cleared for commercial use."
     },
     {
       "asset_id": "DEP-002",
@@ -19,10 +19,10 @@
       "asset_type": "model",
       "used_for": "Baseline for text-generation evaluations",
       "owning_team": "Model Evaluation",
-      "license": "",
-      "compliance_status": "pending",
-      "reviewed_on": "",
-      "review_notes": ""
+      "license": "mit",
+      "compliance_status": "approved",
+      "reviewed_on": "2026-11-11",
+      "review_notes": "Permissive license; cleared for commercial use."
     },
     {
       "asset_id": "DEP-003",
@@ -30,10 +30,10 @@
       "asset_type": "model",
       "used_for": "Instruction-tuning experiments",
       "owning_team": "LLM Research",
-      "license": "",
-      "compliance_status": "pending",
-      "reviewed_on": "",
-      "review_notes": ""
+      "license": "apache-2.0",
+      "compliance_status": "approved",
+      "reviewed_on": "2026-11-11",
+      "review_notes": "Permissive license; cleared for commercial use."
     },
     {
       "asset_id": "DEP-004",
@@ -41,10 +41,10 @@
       "asset_type": "dataset",
       "used_for": "Supervised fine-tuning data",
       "owning_team": "LLM Research",
-      "license": "",
-      "compliance_status": "pending",
-      "reviewed_on": "",
-      "review_notes": ""
+      "license": "cc-by-sa-3.0",
+      "compliance_status": "approved",
+      "reviewed_on": "2026-11-11",
+      "review_notes": "Permissive license; cleared for commercial use."
     },
     {
       "asset_id": "DEP-005",
@@ -52,10 +52,10 @@
       "asset_type": "dataset",
       "used_for": "Chat fine-tuning data",
       "owning_team": "Conversational AI",
-      "license": "",
-      "compliance_status": "pending",
-      "reviewed_on": "",
-      "review_notes": ""
+      "license": "mit",
+      "compliance_status": "approved",
+      "reviewed_on": "2026-11-11",
+      "review_notes": "Permissive license; cleared for commercial use."
     },
     {
       "asset_id": "DEP-006",
@@ -63,10 +63,10 @@
       "asset_type": "dataset",
       "used_for": "Chinese benchmark for model evaluation",
       "owning_team": "Model Evaluation",
-      "license": "",
-      "compliance_status": "pending",
-      "reviewed_on": "",
-      "review_notes": ""
+      "license": "cc-by-nc-sa-4.0",
+      "compliance_status": "restricted",
+      "reviewed_on": "2026-11-11",
+      "review_notes": "Restricted license; legal review required before release."
     },
     {
       "asset_id": "DEP-007",
@@ -74,10 +74,10 @@
       "asset_type": "model",
       "used_for": "Long-context experiments",
       "owning_team": "LLM Research",
-      "license": "",
-      "compliance_status": "pending",
-      "reviewed_on": "",
-      "review_notes": ""
+      "license": "llama2",
+      "compliance_status": "restricted",
+      "reviewed_on": "2026-11-11",
+      "review_notes": "Restricted license; legal review required before release."
     },
     {
       "asset_id": "DEP-008",
@@ -85,10 +85,10 @@
       "asset_type": "model",
       "used_for": "Multilingual prototype",
       "owning_team": "Platform Prototyping",
-      "license": "",
-      "compliance_status": "pending",
-      "reviewed_on": "",
-      "review_notes": ""
+      "license": "bigscience-bloom-rail-1.0",
+      "compliance_status": "restricted",
+      "reviewed_on": "2026-11-11",
+      "review_notes": "Restricted license; legal review required before release."
     },
     {
       "asset_id": "DEP-009",
@@ -96,10 +96,10 @@
       "asset_type": "dataset",
       "used_for": "Legacy pretraining corpus",
       "owning_team": "Data Platform",
-      "license": "",
-      "compliance_status": "pending",
-      "reviewed_on": "",
-      "review_notes": ""
+      "license": "unknown",
+      "compliance_status": "blocked",
+      "reviewed_on": "2026-11-11",
+      "review_notes": "License unclear or unresolved; usage blocked until clarified."
     },
     {
       "asset_id": "DEP-010",
@@ -107,10 +107,10 @@
       "asset_type": "dataset",
       "used_for": "NLU evaluation suite",
       "owning_team": "Model Evaluation",
-      "license": "",
-      "compliance_status": "pending",
-      "reviewed_on": "",
-      "review_notes": ""
+      "license": "other",
+      "compliance_status": "blocked",
+      "reviewed_on": "2026-11-11",
+      "review_notes": "License unclear or unresolved; usage blocked until clarified."
     }
   ]
 }
