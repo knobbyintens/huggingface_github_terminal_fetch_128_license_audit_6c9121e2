@@ -1,0 +1,116 @@
+{
+  "catalog_version": "2026-Q4",
+  "updated_on": "2026-11-11",
+  "assets": [
+    {
+      "asset_id": "DEP-001",
+      "name": "google-bert/bert-base-uncased",
+      "asset_type": "model",
+      "used_for": "Semantic search embedding backbone",
+      "owning_team": "Search Relevance",
+      "license": "",
+      "compliance_status": "pending",
+      "reviewed_on": "",
+      "review_notes": ""
+    },
+    {
+      "asset_id": "DEP-002",
+      "name": "openai-community/gpt2",
+      "asset_type": "model",
+      "used_for": "Baseline for text-generation evaluations",
+      "owning_team": "Model Evaluation",
+      "license": "",
+      "compliance_status": "pending",
+      "reviewed_on": "",
+      "review_notes": ""
+    },
+    {
+      "asset_id": "DEP-003",
+      "name": "tiiuae/falcon-7b",
+      "asset_type": "model",
+      "used_for": "Instruction-tuning experiments",
+      "owning_team": "LLM Research",
+      "license": "",
+      "compliance_status": "pending",
+      "reviewed_on": "",
+      "review_notes": ""
+    },
+    {
+      "asset_id": "DEP-004",
+      "name": "databricks/databricks-dolly-15k",
+      "asset_type": "dataset",
+      "used_for": "Supervised fine-tuning data",
+      "owning_team": "LLM Research",
+      "license": "",
+      "compliance_status": "pending",
+      "reviewed_on": "",
+      "review_notes": ""
+    },
+    {
+      "asset_id": "DEP-005",
+      "name": "HuggingFaceH4/ultrachat_200k",
+      "asset_type": "dataset",
+      "used_for": "Chat fine-tuning data",
+      "owning_team": "Conversational AI",
+      "license": "",
+      "compliance_status": "pending",
+      "reviewed_on": "",
+      "review_notes": ""
+    },
+    {
+      "asset_id": "DEP-006",
+      "name": "ceval/ceval-exam",
+      "asset_type": "dataset",
+      "used_for": "Chinese benchmark for model evaluation",
+      "owning_team": "Model Evaluation",
+      "license": "",
+      "compliance_status": "pending",
+      "reviewed_on": "",
+      "review_notes": ""
+    },
+    {
+      "asset_id": "DEP-007",
+      "name": "meta-llama/Llama-2-7b-hf",
+      "asset_type": "model",
+      "used_for": "Long-context experiments",
+      "owning_team": "LLM Research",
+      "license": "",
+      "compliance_status": "pending",
+      "reviewed_on": "",
+      "review_notes": ""
+    },
+    {
+      "asset_id": "DEP-008",
+      "name": "bigscience/bloom-560m",
+      "asset_type": "model",
+      "used_for": "Multilingual prototype",
+      "owning_team": "Platform Prototyping",
+      "license": "",
+      "compliance_status": "pending",
+      "reviewed_on": "",
+      "review_notes": ""
+    },
+    {
+      "asset_id": "DEP-009",
+      "name": "bookcorpus/bookcorpus",
+      "asset_type": "dataset",
+      "used_for": "Legacy pretraining corpus",
+      "owning_team": "Data Platform",
+      "license": "",
+      "compliance_status": "pending",
+      "reviewed_on": "",
+      "review_notes": ""
+    },
+    {
+      "asset_id": "DEP-010",
+      "name": "nyu-mll/glue",
+      "asset_type": "dataset",
+      "used_for": "NLU evaluation suite",
+      "owning_team": "Model Evaluation",
+      "license": "",
+      "compliance_status": "pending",
+      "reviewed_on": "",
+      "review_notes": ""
+    }
+  ]
+}
